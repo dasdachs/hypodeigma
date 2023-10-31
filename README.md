@@ -10,14 +10,13 @@ The starters are bootstrapped using the [go template language](https://pkg.go.de
 
 TODO
 
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Prerequisites
 
-Go 1.16 or higher
+Go 1.19 or higher
 
 ### Setup the project
 
