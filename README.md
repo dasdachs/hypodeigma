@@ -1,4 +1,4 @@
-# Hypodeima
+# Hypodeigma
 
 > The ancient Greek word for template is ὑπόδειγμα (hypodeigma), which means "example" or "model". 
 
@@ -24,9 +24,9 @@ Go 1.16 or higher
 Clone this repository
 
 ```bash
-git clone https://github.com/dasdachs/hypodeima.git
-cd hypodeima 
-main.go
+git clone https://github.com/dasdachs/hypodeigma.git
+cd hypodeigma 
+go run cmd/main.go
 ```
 ## License
 
